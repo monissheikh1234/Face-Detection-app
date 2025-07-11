@@ -1,0 +1,5 @@
+streamlit
+mtcnn
+opencv-python
+numpy
+Pillow

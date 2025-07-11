@@ -12,7 +12,7 @@ Built with:
 
 ## 🚀 Demo
 
-Live App: [Click Here to Try It Out](https://your-app-url.streamlit.app)  
+Live App: [Click Here to Try It Out]([https://your-app-url.streamlit.app](https://face20detection-exhjehtwkqm25w2awfesac.streamlit.app/))  
 *(Replace with actual deployed link)*
 
 ---

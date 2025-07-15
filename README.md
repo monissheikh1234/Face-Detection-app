@@ -54,16 +54,6 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-3. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the app**
-```bash
-streamlit run app.py
-```
-
 ---
 
 ## 📦 Requirements
@@ -105,12 +95,6 @@ It detects all human faces in the uploaded image and draws bounding boxes.
 ## ✨ Contributing
 
 Pull requests are welcome. Feel free to open issues and contribute improvements or new features!
-
----
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 

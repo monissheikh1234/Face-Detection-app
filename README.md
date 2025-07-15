@@ -95,7 +95,9 @@ It detects all human faces in the uploaded image and draws bounding boxes.
 
 | 📤 Upload Image | ✅ Detected Face(s) |
 |-----------------|--------------------|
-| <img src="https://github.com/user-attachments/assets/0c9bb81b-614a-4267-a96d-0bd78f524161/Screenshot%202025-07-15%20233203.png" width="300"/> | <img src="https://github.com/user-attachments/assets/259f1c1e-9294-432e-8415-066a56394e4b/detected_faces%20(1).png" width="300"/> |
+|![Screenshot 2025-07-15 233203](https://github.com/user-attachments/assets/66173c0e-c0b9-43c0-aa8d-81e8e847308d)
+ |![detected_faces (1)](https://github.com/user-attachments/assets/998d2eb3-012f-4529-a0b8-1dc9180ce7e6)
+ |
 
 
 ---
